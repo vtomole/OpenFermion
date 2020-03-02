@@ -16,9 +16,8 @@ import os
 import re
 import sys
 import unittest
-
-import nbformat
 import numpy
+import nbformat
 
 
 class ExamplesTest(unittest.TestCase):

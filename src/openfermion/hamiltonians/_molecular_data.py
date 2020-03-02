@@ -11,9 +11,8 @@
 #   limitations under the License.
 
 """Class and functions to store quantum chemistry data."""
-
-import h5py
 import numpy
+import h5py
 import os
 import shutil
 import uuid

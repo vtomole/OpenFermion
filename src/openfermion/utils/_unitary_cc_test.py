@@ -17,9 +17,8 @@ from __future__ import absolute_import
 import numpy
 import os
 import unittest
-
-import scipy
 from numpy.random import randn
+import scipy
 
 from openfermion.config import THIS_DIRECTORY
 from openfermion.hamiltonians import MolecularData

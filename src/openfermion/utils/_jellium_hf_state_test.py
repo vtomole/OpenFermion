@@ -2,9 +2,9 @@
 from __future__ import absolute_import
 
 from itertools import permutations
+import numpy
 from scipy.sparse import csr_matrix
 
-import numpy
 import unittest
 
 from openfermion.hamiltonians import jellium_model, wigner_seitz_length_scale

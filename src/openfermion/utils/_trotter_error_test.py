@@ -11,10 +11,10 @@
 #   limitations under the License.
 
 """Tests for _trotter_error.py."""
+import numpy
 from future.utils import iteritems
 
 from math import sqrt
-import numpy
 from scipy.linalg import expm
 import unittest
 
